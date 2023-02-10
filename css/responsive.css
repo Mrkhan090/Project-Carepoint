@@ -1,0 +1,522 @@
+@media (min-width: 280px) and (max-width: 319px){
+/* css start*/
+.header .head-info {
+    margin: 16px 0px 0px 0px;
+    padding: 0px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 10px 0px 0px 0px;
+}
+
+.header .menu-social-icons{
+	text-align: left;
+
+}
+
+.header .menu-social-icons li a{
+	margin: 10px 0px 0px;
+	font-size: 16px;
+}
+.banner {
+    padding: 60px 0px;
+ }
+
+.banner .inner-banner .banner-info h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.banner .inner-banner .banner-info p {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.services {
+    padding: 50px 0px;
+}
+
+.services .services-contant h3 {
+    font-size: 20px;
+}
+
+.choose-us {
+    padding: 50px 0px 0px;
+}
+
+.choose-us .choose-head h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+
+.choose-us .choose-head p {
+    font-size: 9px;
+    line-height: 1.5em;
+}
+
+.choose-us .choose-contant {
+    padding: 20px 0px 20px;
+}
+
+.choose-us .choose-contant .in-contant img {
+    width: 50px;
+    height: 50px;
+    margin: 10px 20px 10px 0px;
+}
+
+.choose-us .choose-contant .in-contant h4 {
+    font-size: 26px;
+ }
+.choose-us .choose-contant p {
+    font-size: 12px;
+}
+
+.best-feature {
+    padding: 50px 0px;
+}
+
+.best-feature .inner-best-feature {
+    padding: 0px 0px 50px;
+}
+
+.best-feature .inner-best-feature h1 {
+    font-size: 50px;
+ }
+
+ .treatment {
+    padding: 60px 0px;
+}
+
+.treatment .treatment-left .top-left h2 {
+    font-size: 26px;
+}
+
+.treatment .treatment-left .treatment-card .card .card-img-top {
+    width: 200px;
+}
+
+.treatment .treatment-left .treatment-card .card{
+    width: 16rem;
+}
+
+
+.treatment .treatment-left .top-left p {
+    font-size: 10px;
+ }
+
+.treatment .treatment-left .treatment-card p {
+    font-size: 12px;
+}
+
+.treatment .treatment-left .right-card {
+    padding: 40px 0px 0px 0px;
+}
+
+.treatment .treatment-left .treatment-button {
+    text-align: left;
+    margin: 30px 0px 30px;
+}
+
+.treatment .treatment-left .treatment-button .btn-primary {
+    padding: 8px 18px;
+    font-size: 14px;
+}
+
+.treatment .treatment-right h2 {
+    font-size: 38px;
+}
+
+.treatment .treatment-right p {
+    font-size: 10px;
+    margin: 0px 0px 30px;
+}
+
+.accordion .accordion-body p{
+	font-size: 10px;
+}
+
+.gallery {
+    padding: 60px 0px;
+ }
+
+ .gallery .gallery-head p {
+    font-size: 8px;
+}
+
+.doctor {
+    padding: 60px 0px;
+}
+
+.doctor .doc-head p {
+    font-size: 10px;
+}
+
+.action-bar h2 {
+    font-size: 16px;
+}
+
+.action-bar .action-button {
+    text-align: left;
+    margin: 10px 0px 0px;
+}
+
+.action-bar .action-button .btn-primary {
+    padding: 8px 18px;
+    font-size: 14px;
+}
+
+.footer {
+    padding: 50px 0px;
+}
+
+.footer .col-lg-3{
+    margin: 0px 0px 20px;
+}
+
+.copyright p {
+    font-size: 12px;
+ }
+
+/*css end*/
+}
+
+
+@media (min-width: 320px) and (max-width: 480px){
+/* css start*/
+
+.header .head-info .info-icon img {
+    width: 30px;
+    height: 30px;
+    margin: 2px 10px 0px 0px;
+}
+
+.header .head-info .info-contant h6 {
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.header .head-info {
+    margin: 16px 0px 0px 0px;
+    padding: 0px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 10px 0px 0px 0px;
+}
+
+.header .menu-social-icons{
+	margin: -40px 0px 0px;
+}
+
+.header .menu-social-icons li a{
+	margin: 0px;
+	font-size: 16px;
+}
+.banner {
+    padding: 60px 0px;
+ }
+
+.banner .inner-banner .banner-info h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.banner .inner-banner .banner-info p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.services {
+    padding: 50px 0px;
+}
+
+.choose-us {
+    padding: 50px 0px 0px;
+}
+
+.choose-us .choose-head h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.choose-us .choose-head p {
+    font-size: 10px;
+    line-height: 1.5em;
+}
+
+.choose-us .choose-contant {
+    padding: 20px 0px 30px;
+}
+
+.best-feature {
+    padding: 50px 0px;
+}
+
+.best-feature .inner-best-feature {
+    padding: 0px 0px 50px;
+}
+
+.best-feature .inner-best-feature h1 {
+    font-size: 60px;
+ }
+
+ .treatment {
+    padding: 60px 0px;
+}
+
+.treatment .treatment-left .top-left h2 {
+    font-size: 34px;
+}
+
+.treatment .treatment-left .top-left p {
+    font-size: 12px;
+ }
+
+.treatment .treatment-left .right-card {
+    padding: 40px 0px 0px 0px;
+}
+
+.treatment .treatment-left .treatment-button {
+    text-align: left;
+    margin: 30px 0px 30px;
+}
+
+.treatment .treatment-right p {
+    font-size: 12px;
+    margin: 0px 0px 30px;
+}
+
+.gallery {
+    padding: 60px 0px;
+ }
+
+ .gallery .gallery-head p {
+    font-size: 9px;
+}
+
+.doctor {
+    padding: 60px 0px;
+}
+
+.doctor .doc-head p {
+    font-size: 11px;
+}
+
+.action-bar h2 {
+    font-size: 18px;
+}
+
+.action-bar .action-button {
+    text-align: left;
+    margin: 10px 0px 0px;
+}
+
+.footer {
+    padding: 60px 0px;
+}
+
+.footer .col-lg-3{
+    margin: 0px 0px 20px;
+}
+
+.copyright p {
+    font-size: 12px;
+ }
+
+
+/*css end*/
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+/* css start*/
+.header .head-info {
+    margin: 16px 10px 0px 0px;
+    padding: 0px;
+}
+
+.header .head-info .info-icon img {
+    width: 30px;
+    height: 30px;
+    margin: 2px 10px 0px 0px;
+}
+
+.header .head-info .info-contant h6 {
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 10px 0px 0px 0px;
+}
+
+.header .menu-social-icons {
+    margin: -40px 0px 0px;
+}
+
+.header .menu-social-icons li a{
+	margin: 0px;
+	font-size: 18px;
+}
+.banner {
+    padding: 60px 0px;
+ }
+
+.banner .inner-banner .banner-info h2 {
+    font-size: 36px;
+    line-height: 46px;
+}
+
+.banner .inner-banner .banner-info p {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.services .inner-services{
+	margin: 20px 0px 0px;
+}
+
+.choose-us {
+    padding: 50px 0px 0px;
+}
+
+.choose-us .choose-contant {
+    width: 100%;
+    padding: 20px 0px 20px;
+}
+
+.best-feature {
+    padding: 70px 0px 50px;
+}
+
+.best-feature .inner-best-feature {
+    padding: 0px 0px 60px;
+}
+
+.best-feature .inner-best-feature h1 {
+    font-size: 70px;
+ }
+
+
+.treatment .treatment-left .treatment-card .card {
+    margin: 20px 0px 0px;
+}
+
+.treatment .treatment-left .right-card {
+    padding: 40px 0px 0px 0px;
+}
+
+.treatment .treatment-left .treatment-button {
+    text-align: left;
+    margin: 30px 0px 30px;
+}
+
+.gallery .gallery-head p {
+    font-size: 14px;
+}
+
+.doctor .doc-head p {
+    font-size: 13px;
+ }
+
+ .action-bar h2 {
+    font-size: 26px;
+}
+
+.action-bar .action-button {
+    text-align: left;
+    margin: 10px 0px 0px;
+}
+
+.footer {
+    padding: 60px 0px;
+}
+
+.footer .col-lg-3{
+    margin: 0px 0px 20px;
+}
+/*css end*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+/* css start*/
+
+.header .head-info {
+    margin: 0px 0px 16px 36px;
+    padding: 0px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 10px 0px 0px 0px;
+}
+
+.header .menu-social-icons {
+    margin: 0px 0px 0px;
+    display: inline-flex;
+}
+
+.header .menu-social-icons li a{
+	font-size: 18px;
+}
+
+.choose-us .choose-head p {
+    font-size: 13px;
+ }
+
+.choose-us .choose-contant {
+    padding: 20px 0px 40px;
+}
+
+.best-feature{
+	padding: 60px;
+}
+
+.best-feature .inner-best-feature {
+    padding: 40px 0px 0px;
+}
+
+.best-feature .inner-best-feature h1 {
+    font-size: 50px;
+ }
+
+.treatment .treatment-left .top-left h2 {
+    text-align: center;
+}
+
+
+.treatment .treatment-left .top-left p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.treatment .treatment-left .treatment-button {
+    margin: 30px 0px;
+}
+
+
+.gallery .gallery-head p {
+    font-size: 11px;
+}
+
+.doctor .doc-head p {
+    font-size: 10px;
+ }
+
+ .action-bar h2 {
+    font-size: 24px;
+}
+
+.action-bar .action-button .btn-primary{
+	font-size: 12px;
+	padding: 14px 25px;
+}
+
+.action-bar .padd-button{
+	padding: 0px;
+}
+
+.footer .col-lg-3{
+    margin: 0px 0px 20px;
+}
+
+/*css end*/
+}
